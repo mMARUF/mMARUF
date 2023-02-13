@@ -2,10 +2,10 @@
 🔭 I’m currently working as Software Engineer in TEST in Stibo DX<br>👯 I’m looking to collaborate on Open Source Software Testing Projects<br>🤝 I’m looking for help with Automation in dApps<br>🌱 I’m currently learning Blockchain Application Automation Testing<br>💬 Ask me about Automation Testing<br>⚡ Fun fact – I like to play physical games like - Cricket, Football
 
 
----
+<!-- ---
 [![](https://visitcount.itsvg.in/api?id=mMARUF&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
