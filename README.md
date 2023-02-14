@@ -2,14 +2,7 @@
 🔭 I’m currently working as Software Engineer in TEST in Stibo DX<br>👯 I’m looking to collaborate on Open Source Software Testing Projects<br>🤝 I’m looking for help with Automation in dApps<br>🌱 I’m currently learning Blockchain Application Automation Testing<br>💬 Ask me about Automation Testing<br>⚡ Fun fact – I like to play physical games like - Cricket, Football
 
 
-<!-- ---
-[![](https://visitcount.itsvg.in/api?id=mMARUF&icon=2&color=9)](https://visitcount.itsvg.in)
-
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaruf&label=Profile%20views&color=0e75b6&style=flat" alt="mmaruf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mMARUF&label=Profile%20views&color=0e75b6&style=flat" alt="mmaruf" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,9 +16,13 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mMARUF&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mMARUF&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mMARUF&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mMARUF&theme=onedark&hide_border=false)<br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)](https://github.com/mMARUF/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mMARUF&theme=radical&no-frame=true&no-bg=false&margin-w=4)
