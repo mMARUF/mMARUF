@@ -40,7 +40,10 @@ alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353515/browserstack.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.atlassian.com/software/jira/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376328/jira.svg" alt="git" width="40" height="40"/></a>  
 <a href="https://www.atlassian.com/software/confluence/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353597/confluence.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.svgrepo.com/vectors/azure-devops/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448271/azure-devops.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift/="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354143/openshift.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 
 <br></br>
 
