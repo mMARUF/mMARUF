@@ -2,7 +2,7 @@
 🔭 I’m currently working as Software Engineer in TEST in Stibo DX<br>👯 I’m looking to collaborate on Open Source Software Testing Projects<br>🤝 I’m looking for help with Automation in dApps<br>🌱 I’m currently learning Blockchain Application Automation Testing<br>💬 Ask me about Automation Testing<br>⚡ Fun fact – I like to play physical games like - Cricket, Football
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mMARUF&label=Profile%20views&color=0e75b6&style=flat" alt="mmaruf" width="150" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mMARUF&label=Profile%20views&color=0e75b6&style=flat" alt="mmaruf" width="130" /> </p>
 
 
 
