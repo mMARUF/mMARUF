@@ -57,7 +57,9 @@ alt="javascript" width="40" height="40"/> </a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mMARUF&theme=dracula&hide_border=false)<br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)](https://github.com/mMARUF/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)](https://github.com/mMARUF/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&theme=dracula&hide_border=false&include_all_commits=true&count_private=true@langs_count=8)](https://github.com/mMARUF/github-readme-stats)
 
 <br></br>
 
