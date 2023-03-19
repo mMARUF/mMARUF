@@ -1,5 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&pause=1&color=3281EA&center=true&vCenter=true&repeat=false&width=435&lines=Md+Maruf+Rahman)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3281EA&center=true&vCenter=true&width=435&lines=4%2B+years+in+Software+Testing;Automation+%26+Manual+Testing;WebdriverIO+%7C+Cypress+%7C+Selenium)](https://git.io/typing-svg)
+
+
+
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer in TEST in Stibo DX<br>👯 I’m looking to collaborate on Open Source Software Testing Projects<br>🤝 I’m looking for help with Automation in dApps<br>🌱 I’m currently learning Blockchain Application Automation Testing<br>💬 Ask me about Automation Testing<br>⚡ Fun fact – I like to play physical games like - Cricket, Football
+🔭 I’m currently working as Software Engineer in TEST in **[Stibo DX](https://www.stibodx.com/)**<br>👯 I’m looking to collaborate on Open Source Software Testing Projects<br>🤝 I’m looking for help with Automation in dApps<br>🌱 I’m currently learning Blockchain Application Automation Testing<br>💬 Ask me about Automation Testing<br>⚡ Fun fact – I like to play physical games like - Cricket, Football etc.
 
 <br></br>
 
@@ -51,14 +57,14 @@ alt="javascript" width="40" height="40"/> </a>
 <br></br>
 
 # 📊 GitHub Stats:
-<!--Github Stats-->
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mMARUF&theme=dracula&hide_border=false&include_all_commits=true&count_private=true@langs_count=8" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&theme=dracula&hide_border=false&include_all_commits=true&count_private=true@langs_count=8"/>
 </p>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mMARUF&theme=dracula&hide_border=false)<br/>
+<!--Github Stats-->
+#### What my GitHub Stats look like?
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mMARUF&show_icons=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&show_icons=true&layout=compact&langs_count=11"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=mMARUF&count_private=true&show_icons=true&theme=cobalt" align="center"/>
+</p>
 
 
 <br></br>
@@ -69,7 +75,7 @@ alt="javascript" width="40" height="40"/> </a>
     <img src="https://www.stibodx.com/assets/stibodx-apng-1-loop.png">
   </a>  
    <a href="https://selise.ch/">
-    <img src="https://selisegroup.com/wp-content/uploads/2022/10/logo.png" height=50 width=100>
+    <img src="https://ik.imagekit.io/guidle/tr:h-250,c-at_least,dpr-2/9/45/68/9456890511bfda530c5d689698aee8832ef16919_700291736.png" height=60 width=99>
   </a> 
   <a href="https://leads.com.bd/">
     <img src="https://leads.com.bd/wp-content/uploads/2022/02/LEADS-1-150x29.png" height=50 width = 90> 
@@ -84,13 +90,11 @@ alt="javascript" width="40" height="40"/> </a>
 
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mMARUF&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 <br></br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&no-frame=false&hide_border=false)   
 
+ 
 
+ 
