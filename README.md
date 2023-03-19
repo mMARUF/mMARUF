@@ -63,6 +63,27 @@ alt="javascript" width="40" height="40"/> </a>
 
 <br></br>
 
+#### What companies have I worked for?
+<p left="center">
+  <a href="https://www.stibodx.com/">
+    <img src="https://www.stibodx.com/assets/stibodx-apng-1-loop.png">
+  </a>  
+   <a href="https://selise.ch/">
+    <img src="https://selisegroup.com/wp-content/uploads/2022/10/logo.png" height=50 width=100>
+  </a> 
+  <a href="https://leads.com.bd/">
+    <img src="https://leads.com.bd/wp-content/uploads/2022/02/LEADS-1-150x29.png" height=50 width = 90> 
+  </a>  
+  <a href="grameenphone.com">
+    <img src="https://cdn01.grameenphone.com/sites/default/files/downloadable_images/thumbs/gp-logo-black-bg_2.png" height=50>
+  </a>  
+  <a href="https://www.banglalink.net/">
+    <img src="https://logovtor.com/wp-content/uploads/2020/08/banglalink-logo-vector.png" height=50>
+    </a> 
+
+
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mMARUF&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
