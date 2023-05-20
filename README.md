@@ -63,8 +63,8 @@ alt="javascript" width="40" height="40"/> </a>
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mMARUF&show_icons=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&show_icons=true&layout=compact&langs_count=11"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=mMARUF&count_private=true&show_icons=true&theme=cobalt" align="center"/>
-</p>
+<!-- <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mMARUF&count_private=true&show_icons=true&theme=cobalt" align="center"/>
+</p> -->
 
 
 <br></br>
