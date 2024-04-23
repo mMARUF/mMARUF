@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer in TEST in **[Stibo DX](https://www.stibodx.com/)**<br>👯 I’m looking to collaborate on Open Source Software Testing Projects<br>🤝 I’m looking for help with Automation in dApps<br>🌱 I’m currently learning Blockchain Application Automation Testing<br>💬 Ask me about Automation Testing<br>⚡ Fun fact – I like to play physical games like - Cricket, Football etc.
+🔭 I’m currently working as Software Quality Assurance Engineer at **[Stibo DX](https://www.stibodx.com/)**<br>👯 I’m looking to collaborate on Open Source Software Testing Projects<br>🤝 I’m looking for help with Automation in dApps<br>🌱 I’m currently learning Blockchain Application Automation Testing<br>💬 Ask me about Automation Testing<br>⚡ Fun fact – I like to play physical games like - Cricket, Football etc.
 
 <br></br>
 
