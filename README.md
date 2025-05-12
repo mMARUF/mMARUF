@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&pause=1&color=3281EA&center=true&vCenter=true&repeat=false&width=435&lines=Md+Maruf+Rahman)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3281EA&center=true&vCenter=true&width=435&lines=6%2B+years+in+Software+Testing;Automation+%26+Manual+Testing;Playwright+%7C+WebdriverIO+%7C+Cypress+%7C+Selenium+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3281EA&center=true&vCenter=true&width=435&lines=6%2B+years+in+Software+Testing;Automation+%26+Manual+Testing;Playwright+%7C+WebdriverIO+%7C+Cypress+%7C)](https://git.io/typing-svg)
 
 
 
