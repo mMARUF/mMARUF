@@ -39,6 +39,7 @@ alt="javascript" width="40" height="40"/> </a>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="bash" width="40" height="40"/> 
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png?updated=1667619616092" alt="bash" width="40" height="40"/>  
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/439131/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.selenium.dev/images/selenium_4_logo.png" alt="selenium" width="80" height="40"/> </a>
