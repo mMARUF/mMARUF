@@ -73,7 +73,7 @@ alt="javascript" width="40" height="40"/> </a>
 #### What companies have I worked for?
 <p left="center">
     <a href="https://www.trmedia.ca/">
-    <img src="https://www.trmedia.ca/images/tm_logo.svg">
+    <img src="https://www.trmedia.ca/images/tm_logo.svg" alt="TR Media Logo" width="200" height="32.58">
   </a>  
   <a href="https://www.stibodx.com/">
     <img src="https://www.stibodx.com/assets/stibodx-apng-1-loop.png">
