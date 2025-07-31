@@ -82,11 +82,11 @@ alt="javascript" width="40" height="40"/> </a>
   </a>
   
   <a href="https://selise.ch/" target="_blank" rel="noopener noreferrer">
-    <img src="https://ik.imagekit.io/guidle/tr:h-250,c-at_least,dpr-2/9/45/68/9456890511bfda530c5d689698aee8832ef16919_700291736.png" height="60" width="99" style="vertical-align:middle;">
+    <img src="https://ik.imagekit.io/guidle/tr:h-250,c-at_least,dpr-2/9/45/68/9456890511bfda530c5d689698aee8832ef16919_700291736.png" height="60" width="99" style="vertical-align:middle; position:relative; top: 4px;">
   </a>
   
   <a href="https://leads.com.bd/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leads.com.bd/wp-content/uploads/2022/02/LEADS-1-150x29.png" height="50" width="90" style="vertical-align:middle;">
+    <img src="https://leads.com.bd/wp-content/uploads/2022/02/LEADS-1-150x29.png" height="50" width="90" style="vertical-align:middle; position:relative; top: 2px;">
   </a>
   
   <a href="https://www.grameenphone.com/" target="_blank" rel="noopener noreferrer">
