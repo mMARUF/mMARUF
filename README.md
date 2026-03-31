@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=40&pause=1&color=3281EA&center=true&vCenter=true&repeat=false&width=435&lines=Maruf+Rahman)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3281EA&center=true&vCenter=true&width=435&lines=6%2B+years+in+Software+Testing;Automation+%26+Manual+Testing;Playwright+%7C+WebdriverIO+%7C+Cypress+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3281EA&center=true&vCenter=true&width=435&lines=7%2B+years+in+Software+Testing;Automation+%26+Manual+Testing;Playwright+%7C+WebdriverIO+%7C+Cypress+%7C)](https://git.io/typing-svg)
 
 
 
 # 💫 About Me:
-🔭 I’m currently working as Senior Software Quality Assurance Engineer at **[Transmedia Inc.](https://www.trmedia.ca/)**<br>👯 I’m looking to collaborate on Open Source Software Testing Projects<br>🤝 I’m looking for help with Automation in dApps<br>🌱 I’m currently learning Blockchain Application Automation Testing<br>💬 Ask me about Automation Testing<br>⚡ Fun fact – I like to play physical games like - Cricket, Football etc.
+🔭 I’m currently scaling quality for 10M+ MAU as a Senior SQA Engineer @ [FreeConvert.com](https://www.freeconvert.com/) ([TransMedia Inc.](https://www.trmedia.ca/))<br><br>👯 I am open to international relocation, targeting roles in Europe and other major tech hubs.<br>🤝 I am mastering LLM and AI application testing using Ollama and Claude Code, while building automated pipelines with Playwright, Cypress, WebdriverIO, Appium, and Maestro.
+👯 I am looking to collaborate on open source software testing projects.<br>🌱 I previously served as a Mozilla Representative and recently published a research paper at STI 2025.<br>💬 Ask me about E2E testing, API validation, CI/CD with Jenkins, or cross-platform mobile automation.<br>⚡ Fun fact: I like to play physical games like cricket and football.
 
 <br></br>
 
