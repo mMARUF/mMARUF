@@ -30,8 +30,7 @@
 alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/logo/png/full_colored_dark.png" alt="bash" width="40" height="40"/> </a>
 
 </p>
 
@@ -43,7 +42,6 @@ alt="javascript" width="40" height="40"/> </a>
 <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idPvWqIX1T.png?updated=1667619616092" alt="bash" width="40" height="40"/>  
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/439131/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.selenium.dev/images/selenium_4_logo.png" alt="selenium" width="80" height="40"/> </a>
-<a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353625/cucumber.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="70" height="40"/> </a>  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
@@ -58,17 +56,9 @@ alt="javascript" width="40" height="40"/> </a>
 <br></br>
 
 # 📊 GitHub Stats:
-</p>
-<!--Github Stats-->
-#### What my GitHub Stats look like?
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mMARUF&show_icons=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mMARUF&show_icons=true&layout=compact&langs_count=11"/>
-<!-- <img height="180em" src="https://github-profile-trophy.vercel.app/?username=mMARUF&count_private=true&show_icons=true&theme=cobalt" align="center"/>
-</p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmaruf&show_icons=true&locale=en" alt="" /></p>
 
-
-<br></br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmaruf&" alt="mmaruf" /></p>
 
 #### What companies have I worked for?
 <p style="text-align: center;">
