@@ -74,7 +74,7 @@ alt="javascript" width="40" height="40"/> </a>
 <p style="text-align: center;">
 
   <a href="https://www.trmedia.ca/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.trmedia.ca/images/tm_logo.svg" alt="TR Media Logo" width="200" height="32.58" style="vertical-align:middle;">
+    <img src="https://www.trmedia.ca/images/tm_logo.svg" alt="TR Media Logo" width="120" height="" style="vertical-align:middle;">
   </a>
   
 <a href="https://www.stibodx.com/" target="_blank" rel="noopener noreferrer">
@@ -82,23 +82,24 @@ alt="javascript" width="40" height="40"/> </a>
     src="https://media.licdn.com/dms/image/v2/D4E0BAQF-1a0Zn805Pg/company-logo_200_200/B4EZzhohJlJoAI-/0/1773312021773/stibodx_logo?e=1776297600&v=beta&t=SD3SHGZpEXei_W50W8juqPEpTI_gzZzEqdR6QcSvStk" 
     alt="Stibo DX Logo" 
     class="company-logo"
+     height="60" width="60" style="vertical-align:middle; position:relative; top: 4px;"
   >
 </a>
   
   <a href="https://selise.ch/" target="_blank" rel="noopener noreferrer">
-    <img src="https://ik.imagekit.io/guidle/tr:h-250,c-at_least,dpr-2/9/45/68/9456890511bfda530c5d689698aee8832ef16919_700291736.png" height="60" width="99" style="vertical-align:middle; position:relative; top: 4px;">
+    <img src="https://ik.imagekit.io/guidle/tr:h-250,c-at_least,dpr-2/9/45/68/9456890511bfda530c5d689698aee8832ef16919_700291736.png" height="" width="100" style="vertical-align:middle; position:relative; top: 4px;">
   </a>
   
   <a href="https://leads.com.bd/" target="_blank" rel="noopener noreferrer">
-    <img src="https://leads.com.bd/wp-content/uploads/2022/02/LEADS-1-150x29.png" height="50" width="90" style="vertical-align:middle; position:relative; top: 2px;">
+    <img src="https://leads.com.bd/wp-content/uploads/2022/02/LEADS-1-150x29.png" height="50" width="100" style="vertical-align:middle; position:relative; top: 2px;">
   </a>
   
   <a href="https://www.grameenphone.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn01.grameenphone.com/sites/default/files/downloadable_images/thumbs/gp-logo-black-bg_2.png" height="50" width="50" style="vertical-align:middle;">
+    <img src="https://cdn01.grameenphone.com/sites/default/files/downloadable_images/thumbs/gp-logo-black-bg_2.png" height="" width="100" style="vertical-align:middle;">
   </a>
   
   <a href="https://www.banglalink.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://logovtor.com/wp-content/uploads/2020/08/banglalink-logo-vector.png" height="50" width="90" style="vertical-align:middle;">
+    <img src="https://logovtor.com/wp-content/uploads/2020/08/banglalink-logo-vector.png" height="" width="100" style="vertical-align:middle;">
   </a>
 
 </p>
