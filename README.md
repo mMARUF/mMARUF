@@ -77,9 +77,13 @@ alt="javascript" width="40" height="40"/> </a>
     <img src="https://www.trmedia.ca/images/tm_logo.svg" alt="TR Media Logo" width="200" height="32.58" style="vertical-align:middle;">
   </a>
   
-  <a href="https://www.stibodx.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQF-1a0Zn805Pg/company-logo_200_200/B4EZzhohJlJoAI-/0/1773312021773/stibodx_logo?e=1776297600&v=beta&t=SD3SHGZpEXei_W50W8juqPEpTI_gzZzEqdR6QcSvStk"
-  </a>
+<a href="https://www.stibodx.com/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://media.licdn.com/dms/image/v2/D4E0BAQF-1a0Zn805Pg/company-logo_200_200/B4EZzhohJlJoAI-/0/1773312021773/stibodx_logo?e=1776297600&v=beta&t=SD3SHGZpEXei_W50W8juqPEpTI_gzZzEqdR6QcSvStk" 
+    alt="Stibo DX Logo" 
+    class="company-logo"
+  >
+</a>
   
   <a href="https://selise.ch/" target="_blank" rel="noopener noreferrer">
     <img src="https://ik.imagekit.io/guidle/tr:h-250,c-at_least,dpr-2/9/45/68/9456890511bfda530c5d689698aee8832ef16919_700291736.png" height="60" width="99" style="vertical-align:middle; position:relative; top: 4px;">
