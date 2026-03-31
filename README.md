@@ -78,7 +78,7 @@ alt="javascript" width="40" height="40"/> </a>
   </a>
   
   <a href="https://www.stibodx.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQF-1a0Zn805Pg/company-logo_200_200/B4EZzhohJlJoAI-/0/1773312021773/stibodx_logo?e=1776297600&v=beta&t=SD3SHGZpEXei_W50W8juqPEpTI_gzZzEqdR6QcSvStk" //width="150" height="50" style="vertical-align:middle;">
+    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQF-1a0Zn805Pg/company-logo_200_200/B4EZzhohJlJoAI-/0/1773312021773/stibodx_logo?e=1776297600&v=beta&t=SD3SHGZpEXei_W50W8juqPEpTI_gzZzEqdR6QcSvStk"
   </a>
   
   <a href="https://selise.ch/" target="_blank" rel="noopener noreferrer">
